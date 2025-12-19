@@ -37,7 +37,7 @@ Needle in a Haystack（大海捞针）是评估大语言模型（LLM）长文本
 - `LLMEvaluator`：LLM 语义评分（0-10分）
 
   
-默认使用StringMatchEvaluator，一定要看evaluators/string_match_evaluator.py了解评测规则
+默认使用LLMEvaluator
 
 ### 测试流程
 
